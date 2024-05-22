@@ -14,6 +14,7 @@
 		614FC7D42BFE966500720027 /* TapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D32BFE966500720027 /* TapView.swift */; };
 		614FC7D62BFE992B00720027 /* LongPressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D52BFE992B00720027 /* LongPressView.swift */; };
 		614FC7D82BFE9C1E00720027 /* DragView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D72BFE9C1E00720027 /* DragView.swift */; };
+		614FC7DA2BFEA0F400720027 /* RotateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D92BFEA0F400720027 /* RotateView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		614FC7D32BFE966500720027 /* TapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapView.swift; sourceTree = "<group>"; };
 		614FC7D52BFE992B00720027 /* LongPressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressView.swift; sourceTree = "<group>"; };
 		614FC7D72BFE9C1E00720027 /* DragView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragView.swift; sourceTree = "<group>"; };
+		614FC7D92BFEA0F400720027 /* RotateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				614FC7D32BFE966500720027 /* TapView.swift */,
 				614FC7D52BFE992B00720027 /* LongPressView.swift */,
 				614FC7D72BFE9C1E00720027 /* DragView.swift */,
+				614FC7D92BFEA0F400720027 /* RotateView.swift */,
 				614FC7C92BFE302C00720027 /* Assets.xcassets */,
 				614FC7CB2BFE302C00720027 /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 				614FC7C82BFE302A00720027 /* ContentView.swift in Sources */,
 				614FC7C62BFE302A00720027 /* RecognizingGesturesApp.swift in Sources */,
 				614FC7D62BFE992B00720027 /* LongPressView.swift in Sources */,
+				614FC7DA2BFEA0F400720027 /* RotateView.swift in Sources */,
 				614FC7D42BFE966500720027 /* TapView.swift in Sources */,
 				614FC7D82BFE9C1E00720027 /* DragView.swift in Sources */,
 			);
