@@ -12,6 +12,7 @@
 		614FC7CA2BFE302C00720027 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 614FC7C92BFE302C00720027 /* Assets.xcassets */; };
 		614FC7CD2BFE302C00720027 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 614FC7CC2BFE302C00720027 /* Preview Assets.xcassets */; };
 		614FC7D42BFE966500720027 /* TapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D32BFE966500720027 /* TapView.swift */; };
+		614FC7D62BFE992B00720027 /* LongPressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614FC7D52BFE992B00720027 /* LongPressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		614FC7C92BFE302C00720027 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		614FC7CC2BFE302C00720027 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		614FC7D32BFE966500720027 /* TapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapView.swift; sourceTree = "<group>"; };
+		614FC7D52BFE992B00720027 /* LongPressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				614FC7C52BFE302A00720027 /* RecognizingGesturesApp.swift */,
 				614FC7C72BFE302A00720027 /* ContentView.swift */,
 				614FC7D32BFE966500720027 /* TapView.swift */,
+				614FC7D52BFE992B00720027 /* LongPressView.swift */,
 				614FC7C92BFE302C00720027 /* Assets.xcassets */,
 				614FC7CB2BFE302C00720027 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				614FC7C82BFE302A00720027 /* ContentView.swift in Sources */,
 				614FC7C62BFE302A00720027 /* RecognizingGesturesApp.swift in Sources */,
+				614FC7D62BFE992B00720027 /* LongPressView.swift in Sources */,
 				614FC7D42BFE966500720027 /* TapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
